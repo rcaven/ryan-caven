@@ -1,0 +1,6 @@
+echo "tailwindcss
+css/output.css
+.DS_Store
+.vscode/
+.env
+" > .gitignore
